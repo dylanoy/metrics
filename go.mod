@@ -1,4 +1,4 @@
-module go.uber.org/net/metrics
+module github.com/dylanoy/metrics
 
 go 1.13
 
